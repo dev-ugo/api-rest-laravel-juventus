@@ -41,5 +41,5 @@ L'API permet de :
 
 Je suis un développeur passionné par les bonnes pratiques de développement et les technologies modernes. Ce projet reflète mon engagement pour un code de qualité et ma volonté d'apprendre continuellement.
 
--   LinkedIn: [Votre profil LinkedIn]
--   GitHub: [@votre-username]
+-   LinkedIn: [https://www.linkedin.com/in/ugo-preiswerk-dev/]
+-   GitHub: [@dev-ugo]
